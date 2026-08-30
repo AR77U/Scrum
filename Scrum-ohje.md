@@ -6,6 +6,8 @@ Scrum on ketterän kehittämisen malli (agile), jossa työ tehdään sprinteiss�
 
 Sykli alkaa määrittelemällä kyseisen syklin tavoitteet. Tällöin backlogista otetaan ominaisuuksia sprintin kehitysjonoon, jotka sprintin aikana tulee toteuttaa. Sprintin lopussa pitäisi olla jokseenkin toimintavalmis tuote/sovellus käytössä, vaikka kaikkia ominaisuuksia ei olisi sisällytettykään mukaan.
 
+Sprintin aikana ei yleensä tehdä muutoksia kehitysjonoon (Sprint Backlog). Uusien tarpeiden ilmeentyessä niitä ei lisätä Sprint Backlogiin vaan Product backlogiin ja aletaan käsittelemään niitä seuraavan sprintin suunnittelussa.
+
 ## Sprintit
 Scrum-etenee sprinteissä. Yksi sprintti kestää tavallisesti n. 2-4 viikkoa. Tällä opintojaksolla sprintit ovat vain viikon mittaisia.
 Sprinteillä pidetään aina selkeä tavoite (Sprint goal). Tällä saadaan priorisoitua tiettyjä tehtäviä sprintin sisällä, sekä saadaan pidettyä tiimin työskentely yhtenäisenä.
