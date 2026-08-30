@@ -8,6 +8,7 @@ Sykli alkaa määrittelemällä kyseisen syklin tavoitteet. Tällöin backlogist
 
 ## Sprintit
 Scrum-etenee sprinteissä. Yksi sprintti kestää tavallisesti n. 2-4 viikkoa. Tällä opintojaksolla sprintit ovat vain viikon mittaisia.
+Sprinteillä pidetään aina selkeä tavoite (Sprint goal). Tällä saadaan priorisoitua tiettyjä tehtäviä sprintin sisällä, sekä saadaan pidettyä tiimin työskentely yhtenäisenä.
 
 ## Työjonot
 
