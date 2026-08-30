@@ -34,3 +34,13 @@ Tällä opintojaksolla Scrum master -rooli kiertää jokaisella tiimin jäsenell
 ## Kokoukset
 
 ## Miksi Scrum toimii?
+Scrum toimii, koska tiimi ei yritä ennustaa projektin lopputulosta etukäteen. 
+Joka sprintin päätteeksi ja niiden aikana huomataan ongelmia ja niitä korjataan. Toisinsanoen projekti muuttaa suuntaa jatkuvasti, tavoitteena luoda onnistunein kokonaisuus mikä mahdollista.
+
+Scrum-menetelmän kolme ydintä:
+- Läpinäkyvyys
+     * kaikilla tiimissä, sekä sidosryhmillä on mahdollisuus on nähdä mitä projektissa tapahtuu
+- Tarkastelu
+     * työn tulosta arvioidaan jatkuvasti, eikä vain luoda sokeasti eteenpäin. 
+- Mukautuminen
+     * Ongelmia havaittaessa tai vaatimusmuutosten perusteella tehdään tarvitut muokkaukset suunnitelmaan ja      jatketaan niiden pohjalta kehittämistä seuraava sprinttiä varten.
