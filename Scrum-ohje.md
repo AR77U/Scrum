@@ -41,8 +41,10 @@ Tällä opintojaksolla Scrum master -rooli kiertää jokaisella tiimin jäsenell
 Päivittäisen lyhyen (15 min) scrumin tarkoituksena on tarkastella edistymistä sprintin tavoitteen saavuttamisessa ja muokata sprintin kehitysjonoa tarvittaessa. Päivittäiset scrumit parantavat viestintää, edistävät nopeaa päätöksentekoa ja siten poistavat tarvetta muille kokouksille. 
 
 ## Miksi Scrum toimii?
+1. Scrum toimii, koska työ jaetaan lyhyisiin sprintteihin, joiden aikana tiimi keskittyy ennalta sovittuihin tehtäviin ja pystyy näin etenemään järjestelmällisesti kohti projektin tavoitetta.
 Scrum toimii, koska tiimi ei yritä ennustaa projektin lopputulosta etukäteen. 
 Joka sprintin päätteeksi ja niiden aikana huomataan ongelmia ja niitä korjataan. Toisinsanoen projekti muuttaa suuntaa jatkuvasti, tavoitteena luoda onnistunein kokonaisuus mikä mahdollista.
+Scrumin säännölliset tapaamiset ja palautteen kerääminen auttavat tiimiä huomaamaan ongelmat ajoissa, seuraamaan työn etenemistä ja muuttamaan suunnitelmaa nopeasti, jos asiakkaan tai projektin vaatimukset muuttuvat.
 
 Scrum-menetelmän kolme ydintä:
 - Läpinäkyvyys
