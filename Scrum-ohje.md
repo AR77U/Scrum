@@ -1,6 +1,8 @@
 
 # H1 Scrum-ohje
 
+Tämän Scrum-ohjeen on laatinut tiimi Ykköset Haaga Helian opintojaksolle Ohjelmistoprojekti 1 - SOF005AS3A-3026 (s26).
+
 ## Scrum-syklin yleiskuvaus
 Scrum on ketterän kehittämisen malli (agile), jossa työ tehdään sprinteissä.
 
@@ -8,20 +10,27 @@ Sykli alkaa määrittelemällä kyseisen syklin tavoitteet. Tällöin backlogist
 
 Sprintin aikana ei yleensä tehdä muutoksia kehitysjonoon (Sprint Backlog). Uusien tarpeiden ilmeentyessä niitä ei lisätä Sprint Backlogiin vaan Product backlogiin ja aletaan käsittelemään niitä seuraavan sprintin suunnittelussa.
 
-## Sprintit
-Scrum-etenee kehityssykleissä, joita kutsutaan **sprinteiksi**. Yksi sprintti kestää tavallisesti n. 2-4 viikkoa. Tällä opintojaksolla sprintit ovat vain viikon mittaisia.
-
-Sprinteillä pidetään aina selkeä tavoite (Sprint goal). Tällä saadaan priorisoitua tiettyjä tehtäviä sprintin sisällä, sekä saadaan pidettyä tiimin työskentely yhtenäisenä. Jokaisen sprintin tavoite on yksinkertainen: tiimillä pitäisi olla valmiina jotakin julkaisukelpoista.
-
-Sprintin vaiheet ovat:
+Syklin vaiheet ovat:
 1. Suunnittelu
-   - Kehitysjonosta valitaan tehtävät, jotka sprintin aikana tulee suorittaa 
+   - Kehitysjonosta valitaan tulevaa sprinttiä varten tehtävät, jotka sprintin aikana tulee suorittaa 
 2. Toteutus
     - Tiimi työskentelee tehtävien toteuttamiseksi. Tähän lasketaan mukaan myös kokoukset
 3. Katselmointi
     - Sprintin jälkeen työ esitetään eteenpäin sidosryhmille, kuten esimerkiksi tilaajalle. Katselmoinnissa saadaan palautetta tehdystä työstä, johon voidaan reagoida seuraavaa sprinttiä varten
 4. Retrospektiivi
     - Tiimi pitää palaverin, jossa arvioi edellistä sprinttiä. Pohditaan, mikä toimi ja mikä ei toiminut. Tämän pohjalta kehitetään tiimin työtapoja ja -malleja
+
+## Sprintit
+Scrum-etenee kehityssykleissä, joita kutsutaan **sprinteiksi**. Yksi sprintti kestää tavallisesti n. 2-4 viikkoa. Tällä opintojaksolla sprintit ovat vain viikon mittaisia.
+
+Sprinteillä pidetään aina selkeä tavoite (Sprint goal). Tällä saadaan priorisoitua tiettyjä tehtäviä sprintin sisällä, sekä saadaan pidettyä tiimin työskentely yhtenäisenä. Jokaisen sprintin tavoite on yksinkertainen: tiimillä pitäisi olla valmiina jotakin julkaisukelpoista.
+
+Sprintin etenemistä seurataan Scrum-taulun avulla. Scum taulu voisi näyttää esimerkiksi tältä:
+
+![Kuva Scrum-taulusta](https://contribyte.fi/wp-content/uploads/2017/08/Kanban-featured-kuva.jpg "Scrum-taulu")
+
+Taulussa on kolme osiota, "tehtävät", "suorituksessa" ja "valmis". Tiimin jäsen valitsee tehtävä-osiosta itselleen tehtävän ja siirtää sen taululla suorituksessa-osioon. Tämän lisäksi hän kirjoittaa siihen oman nimensä niin, että muutkin tietävät hänen työskentelevän tehtävän parissa. Kun tehtävä tulee valmiiksi, siirretään se valmis-osioon.
+
 
 ## Työjonot
 Tuotteen kehitysjono (product backlog) koostuu toiminnallisuuksista, jotka ovat vielä toteuttamatta. Kehitysjonossa tärkein toiminnallisuus on listattuna ensimmäisenä, ja vähiten merkitsevin viimeisenä. Tarkoituksena on toteuttaa toiminnallisuudet poimien työt tärkeysjärjestyksessä. Kehitysjonon järjestystä ja sisältöä tarkastellaan joka sprintissä.
@@ -35,18 +44,21 @@ Tiimissä on yleensä 5-9 jäsentä.
 Scrumissa on käytössä seuraavat roolit:
 - Scrum master
      * Pitää huolta tiimin kommunikaatiosta
+     * Fasilitoi kokouksia ja tapaamisia
+     * On Scrum-viitekehyksen asiantuntija
 - Ohjelmistokehittäjä
      * Omaa osaamisen, joka vaaditaan projektin tekemiseksi
      * Sprinttityön suunnittelu
      * Laadunvalvonta
 - UX-suunnittelija
 - Testaus- ja käytettävyysasiantuntijat
-- DevOps
+- (DevOps)
 - Tuoteomistaja
      * Edustaa asiakkaan näkökulmaa projektissa
-     * Määrää kehitysjärjestyksen työjonossa
+     * Vastaa työjonon sisällöstä, järjestyksestä ja toteuttamisesta
 
-Tällä opintojaksolla Scrum master -rooli kiertää jokaisella tiimin jäsenellä kahden viikon välein.
+<br>
+Tällä opintojaksolla Scrum master -rooli kiertää jokaisella tiimin jäsenellä kahden viikon välein. Näin varmistetaan, että jokainen opiskelija pääsee harjoittelemaan tiimin vetämistä.
 
 ## Kokoukset
 Päivittäisen lyhyen (15 min) scrumin tarkoituksena on tarkastella edistymistä sprintin tavoitteen saavuttamisessa ja muokata sprintin kehitysjonoa tarvittaessa. Päivittäiset scrumit parantavat viestintää, edistävät nopeaa päätöksentekoa ja siten poistavat tarvetta muille kokouksille.
