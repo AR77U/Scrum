@@ -45,6 +45,7 @@ Päivittäisen lyhyen (15 min) scrumin tarkoituksena on tarkastella edistymistä
 Scrum toimii, koska tiimi ei yritä ennustaa projektin lopputulosta etukäteen. 
 Joka sprintin päätteeksi ja niiden aikana huomataan ongelmia ja niitä korjataan. Toisinsanoen projekti muuttaa suuntaa jatkuvasti, tavoitteena luoda onnistunein kokonaisuus mikä mahdollista.
 Scrumin säännölliset tapaamiset ja palautteen kerääminen auttavat tiimiä huomaamaan ongelmat ajoissa, seuraamaan työn etenemistä ja muuttamaan suunnitelmaa nopeasti, jos asiakkaan tai projektin vaatimukset muuttuvat.
+Lisäksi Scrum selkeyttää tiimin jäsenten rooleja ja vastuita sekä kannustaa jatkuvaan yhteistyöhön, mikä parantaa viestintää, työn laatua ja lopullista lopputulosta.
 
 Scrum-menetelmän kolme ydintä:
 - Läpinäkyvyys
