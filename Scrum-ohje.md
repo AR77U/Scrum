@@ -56,3 +56,4 @@ Scrum-menetelmän kolme ydintä:
      * työn tulosta arvioidaan jatkuvasti, eikä vain luoda sokeasti eteenpäin. 
 - Mukautuminen
      * Ongelmia havaittaessa tai vaatimusmuutosten perusteella tehdään tarvitut muokkaukset suunnitelmaan ja      jatketaan niiden pohjalta kehittämistä seuraava sprinttiä varten.
+     * Mukautuminen auttaa tiimiä reagoimaan nopeasti muuttuviin vaatimuksiin ja uusiin ongelmiin.
