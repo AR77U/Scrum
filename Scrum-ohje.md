@@ -13,7 +13,9 @@ Scrum-etenee sprinteissä. Yksi sprintti kestää tavallisesti n. 2-4 viikkoa. T
 Sprinteillä pidetään aina selkeä tavoite (Sprint goal). Tällä saadaan priorisoitua tiettyjä tehtäviä sprintin sisällä, sekä saadaan pidettyä tiimin työskentely yhtenäisenä.
 
 ## Työjonot
+Tuotteen kehitysjono (product backlog) koostuu toiminnallisuuksista, jotka ovat vielä toteuttamatta. Kehitysjonossa tärkein toiminnallisuus on listattuna ensimmäisenä, ja vähiten merkitsevin viimeisenä. Tarkoituksena on toteuttaa toiminnallisuudet poimien työt tärkeysjärjestyksessä. Kehitysjonon järjestystä ja sisältöä tarkastellaan joka sprintissä.
 
+Sprintin kehitysjono (sprint backlog)...
 
 ## Roolit
 Tiimissä on yleensä 5-9 jäsentä.
