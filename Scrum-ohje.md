@@ -38,6 +38,7 @@ Scrumissa on käytössä seuraavat roolit:
 Tällä opintojaksolla Scrum master -rooli kiertää jokaisella tiimin jäsenellä kahden viikon välein.
 
 ## Kokoukset
+Päivittäisen lyhyen (15 min) scrumin tarkoituksena on tarkastella edistymistä sprintin tavoitteen saavuttamisessa ja muokata sprintin kehitysjonoa tarvittaessa. Päivittäiset scrumit parantavat viestintää, edistävät nopeaa päätöksentekoa ja siten poistavat tarvetta muille kokouksille. 
 
 ## Miksi Scrum toimii?
 Scrum toimii, koska tiimi ei yritä ennustaa projektin lopputulosta etukäteen. 
