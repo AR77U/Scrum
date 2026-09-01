@@ -33,3 +33,4 @@ Tällä opintojaksolla Scrum master -rooli kiertää jokaisella tiimin jäsenell
 ## Kokoukset
 
 ## Miksi Scrum toimii?
+1. Scrum toimii, koska työ jaetaan lyhyisiin sprintteihin, joiden aikana tiimi keskittyy ennalta sovittuihin tehtäviin ja pystyy näin etenemään järjestelmällisesti kohti projektin tavoitetta.
