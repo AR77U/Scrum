@@ -15,7 +15,9 @@ Sprinteillä pidetään aina selkeä tavoite (Sprint goal). Tällä saadaan prio
 ## Työjonot
 Tuotteen kehitysjono (product backlog) koostuu toiminnallisuuksista, jotka ovat vielä toteuttamatta. Kehitysjonossa tärkein toiminnallisuus on listattuna ensimmäisenä, ja vähiten merkitsevin viimeisenä. Tarkoituksena on toteuttaa toiminnallisuudet poimien työt tärkeysjärjestyksessä. Kehitysjonon järjestystä ja sisältöä tarkastellaan joka sprintissä.
 
-Sprintin kehitysjono (sprint backlog)...
+Sprintin kehitysjono (sprint backlog) koostuu sprintille asetetuista tavoitetöistä, eli tuotteen kehitysjonosta poimituista toiminnallisuuksista. Sprintin kehitysjonon tulee olla riittävän yksityiskohtainen (miksi, mitä ja miten), jotta kehittäjät voivat tarkkailla edistymistään päivittäisessä scrumissa. Sprintin tavoitteet ja tehtävät tulee suunnitella riittävän pieniksi, jotta ne ovat toteutettavissa yhden sprintin aikana. 
+
+Sprintin kehitysjonon tehtävät jaetaan kehittäjille ja kehitysjonon tilannetta seurataan tyypillisesti Scrum-taululla.
 
 ## Roolit
 Tiimissä on yleensä 5-9 jäsentä.
